@@ -42,7 +42,29 @@ namespace Toolbox.Logic.Algorithms.Sorting.BubbleSortAlgorithm
 
 		public List<T> RecursiveSort()
 		{
-			throw new NotImplementedException();
+			if (inputValues.Count == 0)
+				return inputValues;
+
+			int upperIndex = inputValues.Count - 1;
+			InternalRecursiveSort(upperIndex);
+
+			return inputValues;
+		}
+
+		private void InternalRecursiveSort(int upperIndex)
+		{
+			if (upperIndex < 0)
+				return;
+
+			for (int idx = 0; idx <= upperIndex - 1; idx++)
+			{
+				if (ShouldSwapValues(idx))
+				{
+					(inputValues[idx + 1], inputValues[idx]) = (inputValues[idx], inputValues[idx + 1]);
+				}
+			}
+
+			InternalRecursiveSort(upperIndex - 1);
 		}
 
 		private bool ShouldSwapValues(int idx)
