@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Algorithms\Searching\" />
-    <Folder Include="Algorithms\Sorting\" />
     <Folder Include="DesignPatterns\Creational\" />
     <Folder Include="DesignPatterns\Behavioral\" />
     <Folder Include="DesignPatterns\Structural\" />
