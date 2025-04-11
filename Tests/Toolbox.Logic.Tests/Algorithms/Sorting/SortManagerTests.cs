@@ -2,6 +2,7 @@
 using Toolbox.Logic.Algorithms.Sorting;
 using Toolbox.Logic.Algorithms.Sorting.BubbleSortAlgorithm;
 using Toolbox.Logic.Algorithms.Sorting.Enums;
+using Toolbox.Logic.Algorithms.Sorting.SelectionSortAlgorithm;
 
 namespace Toolbox.Logic.Tests.Algorithms.Sorting
 {
@@ -40,6 +41,18 @@ namespace Toolbox.Logic.Tests.Algorithms.Sorting
 
 			// Assert
 			bubbleSort.Should().BeOfType(typeof(BubbleSort<int>));
+		}
+
+		[Fact]
+		public void GetInstance_AskForSelectionSort_GetSelectionSortInstance()
+		{
+			// Arrange
+			var inputValues = new List<int>();
+			var selectionSort = new SortManager<int>()
+				.GetInstance(SortType.SelectionSort, inputValues);
+
+			// Assert
+			selectionSort.Should().BeOfType(typeof(SelectionSort<int>));
 		}
 	}
 }

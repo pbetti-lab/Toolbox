@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "D:\\Lavori personali\\.Net\\Toolbox\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\bubblesortalgorithm\\bubblesorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\bubblesortalgorithm\\bubblesorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\sortmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\sortmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CB2BBE3-BBE3-4E70-BECB-4A5BF3F7E709}|Toolbox.Console\\Toolbox.Console.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CB2BBE3-BBE3-4E70-BECB-4A5BF3F7E709}|Toolbox.Console\\Toolbox.Console.csproj|solutionrelative:toolbox.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\selectionsortalgorithm\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\selectionsortalgorithm\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\toolbox.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\toolbox.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\interfaces\\isortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\interfaces\\isortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CB2BBE3-BBE3-4E70-BECB-4A5BF3F7E709}|Toolbox.Console\\Toolbox.Console.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB2BBE3-BBE3-4E70-BECB-4A5BF3F7E709}|Toolbox.Console\\Toolbox.Console.csproj|solutionrelative:toolbox.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\interfaces\\isortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\interfaces\\isortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,32 +87,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
+              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:10:44.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
+              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-11T04:51:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectionSortTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:29:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BubbleSortTests.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
               "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
               "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
               "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwGUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T08:10:29.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SortManagerTests.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
               "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
               "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
               "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T14:08:00.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Toolbox.Logic.csproj",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Toolbox.Logic.csproj",
               "RelativeDocumentMoniker": "Toolbox.Logic\\Toolbox.Logic.csproj",
@@ -108,23 +159,25 @@
               "RelativeToolTip": "Toolbox.Logic\\Toolbox.Logic.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T13:40:20.692Z"
+              "WhenOpened": "2025-04-08T13:40:20.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SortType.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
               "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
               "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
               "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:38:59.885Z"
+              "WhenOpened": "2025-04-08T06:38:59.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ISortAlgorithm.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Interfaces\\ISortAlgorithm.cs",
               "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\Interfaces\\ISortAlgorithm.cs",
@@ -136,45 +189,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SortManager.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
               "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
               "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
               "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T06:11:28.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ReadMe.md",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
               "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
               "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
               "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-08T04:38:26.053Z"
+              "WhenOpened": "2025-04-08T04:38:26.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BubbleSort.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
               "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
               "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
               "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDMAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T16:55:57.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Console\\Program.cs",
               "RelativeDocumentMoniker": "Toolbox.Console\\Program.cs",
@@ -182,7 +236,8 @@
               "RelativeToolTip": "Toolbox.Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T15:02:14.299Z"
+              "WhenOpened": "2025-04-04T15:02:14.299Z",
+              "EditorCaption": ""
             }
           ]
         }
