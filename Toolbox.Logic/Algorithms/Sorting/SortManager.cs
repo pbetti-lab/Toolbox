@@ -1,6 +1,7 @@
-﻿using Toolbox.Logic.Algorithms.Sorting.Interfaces;
-using Toolbox.Logic.Algorithms.Sorting.BubbleSortAlgorithm;
+﻿using Toolbox.Logic.Algorithms.Sorting.BubbleSortAlgorithm;
 using Toolbox.Logic.Algorithms.Sorting.Enums;
+using Toolbox.Logic.Algorithms.Sorting.Interfaces;
+using Toolbox.Logic.Algorithms.Sorting.SelectionSortAlgorithm;
 
 namespace Toolbox.Logic.Algorithms.Sorting
 {
@@ -18,6 +19,7 @@ namespace Toolbox.Logic.Algorithms.Sorting
 			return sortingType switch
 			{
 				SortType.BubbleSort => new BubbleSort<T>(inputValues),
+				SortType.SelectionSort => new SelectionSort<T>(inputValues),
 				_ => throw new NotImplementedException(),
 			};
 		}

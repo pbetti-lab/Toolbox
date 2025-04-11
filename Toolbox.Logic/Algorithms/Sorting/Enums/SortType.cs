@@ -3,5 +3,6 @@
 	public enum SortType
 	{
 		BubbleSort,
+		SelectionSort,
 	}
 }
