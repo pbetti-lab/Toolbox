@@ -6,7 +6,7 @@ Bubble Sort works by **repeatedly stepping through the list**, comparing **adjac
 
 Each pass through the list "bubbles up" the largest unsorted element to its correct position.
 
-### Visual Flow:
+### 👁️ Visual Flow
 
 1. Start at the beginning of the list.
 2. Compare each pair of adjacent elements.
@@ -55,7 +55,7 @@ Each pass through the list "bubbles up" the largest unsorted element to its corr
 
 Recursive Bubble Sort mimics the logic of the iterative version but replaces the outer loop with recursive calls.
 
-### How it works:
+### 👁️ Visual Flow
 
 1. **Base Case**  
    If the list has 0 or 1 elements, it is already sorted.
