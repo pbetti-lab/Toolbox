@@ -3,52 +3,68 @@
   "WorkspaceRootPath": "D:\\Lavori personali\\.Net\\Toolbox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\battlemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\battlemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\bubblesortalgorithm\\bubblesorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\bubblesortalgorithm\\bubblesorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\models\\charactertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\models\\charactertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\combatmodes\\randomcombatmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\combatmodes\\randomcombatmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\combatmodes\\moreevasivelessaggressivecombatmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\combatmodes\\moreevasivelessaggressivecombatmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\interfaces\\icombatmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\interfaces\\icombatmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\fightround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\fightround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\interfaces\\ifightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\interfaces\\ifightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\sortmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\sortmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\bubblesortalgorithm\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\selectionsortalgorithm\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\selectionsortalgorithm\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\toolbox.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\toolbox.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CB2BBE3-BBE3-4E70-BECB-4A5BF3F7E709}|Toolbox.Console\\Toolbox.Console.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CB2BBE3-BBE3-4E70-BECB-4A5BF3F7E709}|Toolbox.Console\\Toolbox.Console.csproj|solutionrelative:toolbox.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\selectionsortalgorithm\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\algorithms\\sorting\\interfaces\\isortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\algorithms\\sorting\\interfaces\\isortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,157 +102,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SelectionSort.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSort.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T05:10:44.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReadMe.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SelectionSortAlgorithm\\ReadMe.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-11T04:51:26.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SelectionSortTests.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
-              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
-              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T04:29:56.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BubbleSortTests.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
-              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
-              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSortTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Title": "CharacterTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T08:10:29.017Z",
+              "WhenOpened": "2025-04-22T08:40:03.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvasiveFightStrategyTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:39:32.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SortManagerTests.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
-              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
-              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCgAAAAAAAAAAAAAAA==",
+              "Title": "DefensiveFightStrategyTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:08:00.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Toolbox.Logic.csproj",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Toolbox.Logic.csproj",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Toolbox.Logic.csproj",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Toolbox.Logic.csproj",
-              "RelativeToolTip": "Toolbox.Logic\\Toolbox.Logic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T13:40:20.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SortType.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\Enums\\SortType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:38:59.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ISortAlgorithm.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Interfaces\\ISortAlgorithm.cs",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\Interfaces\\ISortAlgorithm.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\Interfaces\\ISortAlgorithm.cs",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\Interfaces\\ISortAlgorithm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:29:05.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SortManager.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:11:28.597Z",
+              "WhenOpened": "2025-04-22T08:39:18.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReadMe.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\ReadMe.md",
-              "ViewState": "AgIAADoAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-08T04:38:26.053Z",
+              "Title": "AggressiveFightStrategyTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:38:15.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BubbleSort.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
-              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
-              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\BubbleSortAlgorithm\\BubbleSort.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwDMAAAADAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "SortManager.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
+              "RelativeToolTip": "Toolbox.Logic\\Algorithms\\Sorting\\SortManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T16:55:57.129Z",
+              "WhenOpened": "2025-04-22T08:24:24.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoreEvasiveLessAggressiveCombatMode.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\MoreEvasiveLessAggressiveCombatMode.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\MoreEvasiveLessAggressiveCombatMode.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\MoreEvasiveLessAggressiveCombatMode.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\MoreEvasiveLessAggressiveCombatMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:21:17.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Console\\Program.cs",
-              "RelativeDocumentMoniker": "Toolbox.Console\\Program.cs",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Console\\Program.cs",
-              "RelativeToolTip": "Toolbox.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "FightRound.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T15:02:14.299Z",
+              "WhenOpened": "2025-04-22T06:33:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:32:33.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:32:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EvasiveFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:31:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DefensiveFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:31:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AggressiveFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:31:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:03:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICombatMode.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\ICombatMode.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\ICombatMode.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\ICombatMode.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\ICombatMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:03:38.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomCombatMode.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\RandomCombatMode.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\RandomCombatMode.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\RandomCombatMode.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\CombatModes\\RandomCombatMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:01:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleManagerTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:54:46.688Z",
               "EditorCaption": ""
             }
           ]
