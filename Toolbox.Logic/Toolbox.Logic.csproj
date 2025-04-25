@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Algorithms\Searching\" />
     <Folder Include="DesignPatterns\Creational\" />
-    <Folder Include="DesignPatterns\Behavioral\" />
     <Folder Include="DesignPatterns\Structural\" />
   </ItemGroup>
 
