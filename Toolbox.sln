@@ -11,6 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6C83A596
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolbox.Logic.Tests", "Tests\Toolbox.Logic.Tests\Toolbox.Logic.Tests.csproj", "{182E553D-7463-4F8C-85FB-7B528BB4BD18}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KeyConcepts", "KeyConcepts", "{754876EE-FCF6-49B4-9FAA-0C362C9B763C}"
+	ProjectSection(SolutionItems) = preProject
+		KeyConcepts\001 - Object Oriented Programming.md = KeyConcepts\001 - Object Oriented Programming.md
+		KeyConcepts\002 - C# Basic Value and Reference Types.md = KeyConcepts\002 - C# Basic Value and Reference Types.md
+		KeyConcepts\003 - C# Property accessors (init vs private vs empty).md = KeyConcepts\003 - C# Property accessors (init vs private vs empty).md
+		KeyConcepts\005 - C# Delegates and Events.md = KeyConcepts\005 - C# Delegates and Events.md
+		KeyConcepts\004 - C# Memory management.md = KeyConcepts\004 - C# Memory management.md
+		KeyConcepts\006 - C# IEnumerable vs ICollection vs IList.md = KeyConcepts\006 - C# IEnumerable vs ICollection vs IList.md
+		KeyConcepts\007 - Solid Principles.md = KeyConcepts\007 - Solid Principles.md
+		KeyConcepts\008 - Other Principles.md = KeyConcepts\008 - Other Principles.md
+		KeyConcepts\009 - SQL and Database.md = KeyConcepts\009 - SQL and Database.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
