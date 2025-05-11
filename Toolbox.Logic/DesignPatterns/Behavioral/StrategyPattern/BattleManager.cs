@@ -1,47 +1,69 @@
-﻿using System.Collections.Generic;
-using System.Text;
-using Toolbox.Logic.DesignPatterns.Behavioral.StrategyPattern.Interfaces;
+﻿using Toolbox.Logic.DesignPatterns.Behavioral.StrategyPattern.Interfaces;
 using Toolbox.Logic.DesignPatterns.Behavioral.StrategyPattern.Models;
 
 namespace Toolbox.Logic.DesignPatterns.Behavioral.StrategyPattern
 {
 	public class BattleManager
 	{
-		private readonly Character _player;
-		private readonly ICombatMode _playerCombatMode;
-		private readonly Character _enemy;
-		private readonly ICombatMode _enemyCombatMode;
+		private Character _player;
+		private Character _enemy;
+		private readonly FightContext _combatContext;
 		private readonly List<FightRound> _fightHistory;
 
-		public BattleManager(
-			Character player, 
-			ICombatMode playerCombatMode,
-			Character enemy,
-			ICombatMode enemyCombatMode)
+		/// <summary>
+		/// Inizialize the battle manager with the componets needed to perform the fight.
+		/// <para>throw ArgumentNullException if player, enemy or the fightContext are null.</para>
+		/// </summary>
+		/// <param name="player">The character used by the the player.</param>
+		/// <param name="enemy">The character used by the the enemy.</param>
+		/// <param name="fightContext">The contex used by strategy pattern to apply the strategy.</param>
+		public BattleManager(Character player, Character enemy, FightContext fightContext)
 		{
 			ArgumentNullException.ThrowIfNull(player);
-			ArgumentNullException.ThrowIfNull(playerCombatMode);
 			ArgumentNullException.ThrowIfNull(enemy);
-			ArgumentNullException.ThrowIfNull(enemyCombatMode);
+			ArgumentNullException.ThrowIfNull(fightContext);
 
 			_player = player;
-			_playerCombatMode = playerCombatMode;
 			_enemy = enemy;
-			_enemyCombatMode = enemyCombatMode;
+			_combatContext = fightContext;
 			_fightHistory = new List<FightRound>();
 		}
 
+		/// <summary>
+		/// Contains the battle history in read-only mode.
+		/// </summary>
 		public IReadOnlyList<FightRound> FightHistory 
 		{ 
 			get { return _fightHistory.AsReadOnly<FightRound>(); } 
 		}
 
 		/// <summary>
-		/// Return the winnner character. If both are death or alive return null 
+		/// Return a value that indicates if both characters are alive.
 		/// </summary>
-		public Character? GetFightWinner()
+		public bool AreBothCharactersAlive()
 		{
-			if (AreBothCharacterAlive())
+			return _player.Health > 0
+				&& _enemy.Health > 0;
+		}
+
+		/// <summary>
+		/// Return a value that indicates if both characters are dead.
+		/// </summary>
+		public bool AreBothCharactersDead()
+		{
+			return _player.Health == 0
+				&& _enemy.Health == 0;
+		}
+
+		/// <summary>
+		/// Return the winnner character. If both characters are death or alive return null.
+		/// </summary>
+		public Character? GetWinner()
+		{
+			bool isntThereAWinner = AreBothCharactersAlive() ||
+				AreBothCharactersDead(); 
+
+			if (isntThereAWinner)
 				return null;
 
 			return _player.Health > 0 
@@ -49,54 +71,59 @@ namespace Toolbox.Logic.DesignPatterns.Behavioral.StrategyPattern
 				: _enemy;
 		}
 
-		public void Fight()
+		/// <summary>
+		/// Perform a round of the battle and save the result in the fight history collection.
+		/// <para>throw ArgumentNullException if playerFightStrategy or the enemyFightStrategy are null.</para>
+		/// </summary>
+		/// <param name="playerFightStrategy">The character used by the the player.</param>
+		/// <param name="enemyFightStrategy">The character used by the the enemy.</param>
+		public void FightSingleRound(IFightStrategy playerFightStrategy, IFightStrategy enemyFightStrategy)
 		{
-			while (AreBothCharacterAlive())
-			{
-				var playerFightStrategyAdopted = ApplyFightStrategy(_player, _playerCombatMode);
-				var enemyFightStrategyAdopted = ApplyFightStrategy(_enemy, _enemyCombatMode);
+			ArgumentNullException.ThrowIfNull(playerFightStrategy);
+			ArgumentNullException.ThrowIfNull(enemyFightStrategy);
 
-				float playerDamageSuffered = GetDamage(_enemy.FightAttack, _player.FightDefence);
-				float enemyDamageSuffered = GetDamage(_player.FightAttack, _enemy.FightDefence);
+			const string UNKNOWN_STRATEGY_NAME_MSG = "Unknown strategy name";
 
-				_player.ReceiveDamage(playerDamageSuffered);
-				_enemy.ReceiveDamage(enemyDamageSuffered);
 
-				_fightHistory.Add(
-					new FightRound(playerFightStrategyAdopted,
-						enemyFightStrategyAdopted,
-						playerDamageSuffered,
-						enemyDamageSuffered,
-						(Character)_player.Clone(),
-						(Character)_enemy.Clone()
-					)
-				);
-			}
+			//start note: this is the place where strategy pattern is used to apply the strategy and get the expected output
+
+			_combatContext.SetFightStrategy(playerFightStrategy);
+			_player = _combatContext.EnterCombatMode(_player);
+
+			_combatContext.SetFightStrategy(enemyFightStrategy);
+			_enemy = _combatContext.EnterCombatMode(_enemy);
+
+			//end note
+
+
+			float damageDealtToPlayer = CalculateDamage(_enemy.FightAttack, _player.FightDefence);
+			_player.ReceiveDamage(damageDealtToPlayer);
+
+			float damageDealtToEnemy = CalculateDamage(_player.FightAttack, _enemy.FightDefence);
+			_enemy.ReceiveDamage(damageDealtToEnemy);
+
+			string playerFightStrategyName = playerFightStrategy?.ToString() ?? UNKNOWN_STRATEGY_NAME_MSG;
+			string enemyFightStrategyName = enemyFightStrategy?.ToString() ?? UNKNOWN_STRATEGY_NAME_MSG;
+
+			_fightHistory.Add(
+				new FightRound(
+					playerFightStrategyName,
+					enemyFightStrategyName,
+					damageDealtToPlayer,
+					damageDealtToEnemy,
+					(Character)_player.Clone(),
+					(Character)_enemy.Clone()
+				)
+			);
 		}
 		
-		private bool AreBothCharacterAlive()
+		private static float CalculateDamage(float firstPlayerAttackScore, float secondPlayerDefenceScore)
 		{
-			return _player.Health > 0
-				&& _enemy.Health > 0;
-		}
+			float damageDone = firstPlayerAttackScore - secondPlayerDefenceScore;
 
-		private static float GetDamage(float fightAttack, float fightDefence)
-		{
-			float damage = fightAttack - fightDefence;
-
-			return damage > 0 
-				? damage 
+			return damageDone >= 0 
+				? damageDone 
 				: 0;
-		}
-
-		private string ApplyFightStrategy(Character character, ICombatMode combatMode)
-		{
-			var fightStrategy = combatMode.GetFightStrategy() 
-				?? throw new InvalidOperationException("The fight strategy cannot be null");
-						
-			fightStrategy.ApplyFightStrategy(character);
-
-			return fightStrategy.ToString() ?? "It seems that the strategy chosen is unknown";
 		}
 	}
 }

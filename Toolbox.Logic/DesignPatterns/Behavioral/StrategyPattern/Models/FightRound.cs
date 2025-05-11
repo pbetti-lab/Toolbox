@@ -3,8 +3,8 @@
 	public record FightRound(
 		string PlayerFightStrategy,
 		string EnemyFightStrategy,
-		float PlayerDamageSuffered,
-		float EnemyDamageSuffered,
+		float DamageDealtToPlayer,
+		float DamageDealtToEnemy,
 		Character CurrentPlayerStatus,
 		Character CurrentEnemyStatus);
 }

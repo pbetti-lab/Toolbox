@@ -3,40 +3,76 @@
   "WorkspaceRootPath": "D:\\Lavori personali\\.Net\\Toolbox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\009 - SQL and Database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\009 - SQL and Database.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\usecase.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\usecase.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\007 - Solid Principles.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\007 - Solid Principles.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\sortmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\008 - Other Principles.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\008 - Other Principles.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\algorithms\\sorting\\selectionsortalgorithm\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\algorithms\\sorting\\selectionsortalgorithm\\selectionsorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\006 - C# IEnumerable vs ICollection vs IList.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\006 - C# IEnumerable vs ICollection vs IList.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\004 - C# Memory management.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\004 - C# Memory management.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\battlemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\battlemanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\005 - C# Delegates and Events.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\005 - C# Delegates and Events.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\models\\charactertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\models\\charactertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\003 - C# Property accessors (init vs private vs empty).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\003 - C# Property accessors (init vs private vs empty).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\002 - C# Basic Value and Reference Types.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\002 - C# Basic Value and Reference Types.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\001 - Object Oriented Programming.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|KeyConcepts{754876EE-FCF6-49B4-9FAA-0C362C9B763C}|solutionrelative:KeyConcepts\\001 - Object Oriented Programming.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|d:\\lavori personali\\.net\\toolbox\\tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E553D-7463-4F8C-85FB-7B528BB4BD18}|Tests\\Toolbox.Logic.Tests\\Toolbox.Logic.Tests.csproj|solutionrelative:tests\\toolbox.logic.tests\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\fightround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\fightround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\evasivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\defensivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\fightstrategies\\aggressivefightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\interfaces\\ifightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\interfaces\\ifightstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|d:\\lavori personali\\.net\\toolbox\\toolbox.logic\\designpatterns\\behavioral\\strategypattern\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{514387CA-B670-4E59-8174-FD3FFAB0BC6C}|Toolbox.Logic\\Toolbox.Logic.csproj|solutionrelative:toolbox.logic\\designpatterns\\behavioral\\strategypattern\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +91,240 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UseCase.md",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\UseCase.md",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\UseCase.md",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\UseCase.md",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\UseCase.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-11T19:48:46.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EvasiveFightStrategyTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:47:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefensiveFightStrategyTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:47:16.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:45:00.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EvasiveFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\EvasiveFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:44:38.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Interfaces\\IFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:43:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FightContextTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContextTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContextTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContextTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContextTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:13:23.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\CharacterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:10:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AggressiveFightStrategyTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:10:24.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DefensiveFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\DefensiveFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:52:34.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectionSortTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SelectionSortAlgorithm\\SelectionSortTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:10:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortManagerTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\Algorithms\\Sorting\\SortManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:10:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleManagerTests.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "RelativeToolTip": "Tests\\Toolbox.Logic.Tests\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:58:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FightContext.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContext.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContext.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContext.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:59:08.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FightRound.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\Models\\FightRound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:32:45.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AggressiveFightStrategy.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\FightStrategies\\AggressiveFightStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:19:44.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\BattleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:15:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\ReadMe.md",
+              "RelativeDocumentMoniker": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\ReadMe.md",
+              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\ReadMe.md",
+              "RelativeToolTip": "Toolbox.Logic\\DesignPatterns\\Behavioral\\StrategyPattern\\ReadMe.md",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAAAKkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-09T06:10:11.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -71,116 +341,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "009 - SQL and Database.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\009 - SQL and Database.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\009 - SQL and Database.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\009 - SQL and Database.md",
-              "RelativeToolTip": "KeyConcepts\\009 - SQL and Database.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-27T08:46:38.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "008 - Other Principles.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\008 - Other Principles.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\008 - Other Principles.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\008 - Other Principles.md",
-              "RelativeToolTip": "KeyConcepts\\008 - Other Principles.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPoBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-27T07:32:20.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "007 - Solid Principles.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\007 - Solid Principles.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\007 - Solid Principles.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\007 - Solid Principles.md",
-              "RelativeToolTip": "KeyConcepts\\007 - Solid Principles.md",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-26T16:16:21.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "006 - C# IEnumerable vs ICollection vs IList.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\006 - C# IEnumerable vs ICollection vs IList.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\006 - C# IEnumerable vs ICollection vs IList.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\006 - C# IEnumerable vs ICollection vs IList.md",
-              "RelativeToolTip": "KeyConcepts\\006 - C# IEnumerable vs ICollection vs IList.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcCAACUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-26T14:29:24.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "005 - C# Delegates and Events.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\005 - C# Delegates and Events.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\005 - C# Delegates and Events.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\005 - C# Delegates and Events.md",
-              "RelativeToolTip": "KeyConcepts\\005 - C# Delegates and Events.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-26T14:26:32.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "004 - C# Memory management.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\004 - C# Memory management.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\004 - C# Memory management.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\004 - C# Memory management.md",
-              "RelativeToolTip": "KeyConcepts\\004 - C# Memory management.md",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-26T13:55:49.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "003 - C# Property accessors (init vs private vs empty).md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\003 - C# Property accessors (init vs private vs empty).md",
-              "RelativeDocumentMoniker": "KeyConcepts\\003 - C# Property accessors (init vs private vs empty).md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\003 - C# Property accessors (init vs private vs empty).md",
-              "RelativeToolTip": "KeyConcepts\\003 - C# Property accessors (init vs private vs empty).md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-26T05:44:50.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "002 - C# Basic Value and Reference Types.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\002 - C# Basic Value and Reference Types.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\002 - C# Basic Value and Reference Types.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\002 - C# Basic Value and Reference Types.md",
-              "RelativeToolTip": "KeyConcepts\\002 - C# Basic Value and Reference Types.md",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAkwLkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-25T10:14:45.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "001 - Object Oriented Programming.md",
-              "DocumentMoniker": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\001 - Object Oriented Programming.md",
-              "RelativeDocumentMoniker": "KeyConcepts\\001 - Object Oriented Programming.md",
-              "ToolTip": "D:\\Lavori personali\\.Net\\Toolbox\\KeyConcepts\\001 - Object Oriented Programming.md",
-              "RelativeToolTip": "KeyConcepts\\001 - Object Oriented Programming.md",
-              "ViewState": "AgIAAIMBAAAAAAAAAAAAAHcCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-25T10:13:57.141Z"
             }
           ]
         }
